@@ -1,6 +1,6 @@
 # pingCLI
 
-> Ping CLI application. It accepts a hostname or an IP address as its argument, then send ICMP echo request in a loop to the target while receiving messages.
+> Ping CLI application allows user to send ICMP echo request in a loop to the target hostname or an IP address, while receiving messages and reporting loss and success % and RTT times for each message.
 
 ## Usage
 
