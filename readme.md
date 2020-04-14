@@ -21,7 +21,6 @@ Args:
 
 ## Features
 
-- Developed using Go.
 - Send ICMP "echo requests" in an infinite loop.
 - Reports loss% and RTT times for each message.
 - Supports only IPv4 now.
