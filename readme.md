@@ -1,15 +1,12 @@
 # pingCLI
 
-> Ping CLI application.It accepts a hostname or an IP address as its argument, then send ICMP echo request in a loop to the target while receiving messages.
+> Ping CLI application. It accepts a hostname or an IP address as its argument, then send ICMP echo request in a loop to the target while receiving messages.
 
 ## Usage
 
 - `pingcli --help`
 
 ```bash
-
-Ping CLI application.It accepts a hostname or an IP address as its argument,
-then send ICMP echo request in a loop to the target while receiving messages.
 
 Usage:
   pingcli [arg] [flags]
